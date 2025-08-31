@@ -1,0 +1,9 @@
+[user]
+    name = Michael Stathers
+    email = mstathers@outlook.com
+[push]
+	default = simple
+[pull]
+	rebase = false
+[init]
+	defaultBranch = main

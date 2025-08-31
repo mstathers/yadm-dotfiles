@@ -1,0 +1,8 @@
+{
+    "pyright.inlayHints.functionReturnTypes": false,
+    "pyright.inlayHints.variableTypes": false,
+    "pyright.inlayHints.parameterTypes": false,
+    "yaml.schemas": {
+        "https://github.com/docker/cli/raw/master/cli/compose/schema/data/config_schema_v3.12.json": "docker-*.yml"
+      }
+}
